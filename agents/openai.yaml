@@ -1,0 +1,3 @@
+interface:
+  display_name: "Install Skill From GitHub"
+  short_description: "Check a GitHub-hosted skill and install it safely"
